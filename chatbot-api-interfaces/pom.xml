@@ -82,6 +82,17 @@
             <artifactId>hutool-all</artifactId>
             <version>5.7.20</version>
         </dependency>
+        <dependency>
+            <groupId>com.zhr.ai</groupId>
+            <artifactId>chatbot-api-domain_</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId>com.zhr.ai</groupId>
+            <artifactId>chatbot-api-domain_</artifactId>
+            <version>1.0-SNAPSHOT</version>
+            <scope>test</scope>
+        </dependency>
     </dependencies>
 
 </project>
